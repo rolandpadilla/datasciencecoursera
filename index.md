@@ -1,8 +1,8 @@
 ---
-title       : 
+title       : "Returns"
 subtitle    : 
-author      : 
-job         : 
+author      : "Roland Padilla"
+job         : Cloud Computing and Data Science
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -11,16 +11,24 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Context
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+ "data-->information-->knowledge-->wisdom"
 
 --- .class #id 
 
-## Slide 2
+## Solution
 
+Calculate by subtracting income and expenses
 
+----
+
+## Feedback
+
+Please send through your suggestions to the Coursera page.
+
+---
+
+## Thank you
 
 
